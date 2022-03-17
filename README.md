@@ -24,9 +24,10 @@ What we do ~ Get to know about our main activites
 Portfolio ~ This is about our other projects
 Contact us ~ Give us ur feedback
 
-REQUIREMENTS
+#### REQUIREMENTS
 For one to be able to access this webpage he or she must have an access to internet.
-TECHNOLOGIES USED
+
+ ### TECHNOLOGIES USED
 HTML - Used to give structure
 CSS - Used to style the webpage
 Bootstrap - Used to style the webpage
@@ -39,8 +40,6 @@ https://opensource.org/licenses/MIT.
 find the licence in the link above
 =======
 
-#### REQUIREMENTS
-For one to be able to access this webpage he or she must have an access to internet.
 
 #### TECHNOLOGIES USED
 HTML - Used to give structure
