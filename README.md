@@ -26,7 +26,7 @@ JavaScript - used to function the webpage
 ##### BUGS
 The webpage has no known bugs so far. If you come across any you are free to email us on ngowwajose@gmail.com
 
-###### LICENCE
+##### LICENCE
 https://opensource.org/licenses/MIT.
 find the licence in the link above
 
