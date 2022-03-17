@@ -5,7 +5,7 @@
 ## DESCRIPTION
     Shopie is a website that is dedicated to offer a variety of electronics to customers at affordable prices. Through the website, you can get to know who we are and what we do too.Customers have a chance to order their preffered electronics 
 
-    The active link to this webpage is  https://ngowwa-ziro.github.io/Shopie/
+    The active link to this webpage is 
     Have fun visiting my webpage and live a comment
 
 ### PARTS
@@ -29,6 +29,6 @@
     The webpage has no known bugs so far. If you come across any you are free to email us on ngowwajose@gmail.com
 
 #### LICENCE
-    https://opensource.org/licenses/MIT.
-    Find the licence in the link above
+   https://opensource.org/licenses/MIT.
+    Find the licence in the link 
 
