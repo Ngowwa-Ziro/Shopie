@@ -17,16 +17,16 @@ Contact us ~ Give us ur feedback
 ### REQUIREMENTS
 For one to be able to access this webpage he or she must have an access to internet.
 
-#### TECHNOLOGIES USED
+### TECHNOLOGIES USED
 HTML - Used to give structure
 CSS - Used to style the webpage
 Bootstrap - Used to style the webpage
 JavaScript - used to function the webpage
 
-##### BUGS
+### BUGS
 The webpage has no known bugs so far. If you come across any you are free to email us on ngowwajose@gmail.com
 
-##### LICENCE
+### LICENCE
 https://opensource.org/licenses/MIT.
 find the licence in the link above
 
