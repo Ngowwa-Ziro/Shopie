@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Shopie
 By Joseph Ngowwa
 DESCRIPTION
@@ -17,13 +17,13 @@ The active link to this webpage is
 Have fun visiting my webpage and live a comment
 
 ### PARTS
->>>>>>> 6a5a3970faba6a94791d7672627adc3e4f736a6d
+
 About us ~ Get to know of our values
 Services ~ Get to know of what we offer
 What we do ~ Get to know about our main activites
 Portfolio ~ This is about our other projects
 Contact us ~ Give us ur feedback
-<<<<<<< HEAD
+
 REQUIREMENTS
 For one to be able to access this webpage he or she must have an access to internet.
 TECHNOLOGIES USED
@@ -54,4 +54,4 @@ The webpage has no known bugs so far. If you come across any you are free to ema
 #### LICENCE
 https://opensource.org/licenses/MIT.
 find the licence in the link above
->>>>>>> 6a5a3970faba6a94791d7672627adc3e4f736a6d
+
